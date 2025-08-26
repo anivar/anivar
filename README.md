@@ -22,9 +22,9 @@ This foundation in public-interest technology provides what I call **"adversaria
 My career bridges FOSS leadership with enterprise transformation. This unique foundation drives my approach to building resilient systems.
 
 *   **National Infrastructure:** Led **Government of India (MeiTY)** funded R&D programs for Indian language computing, serving millions of users at national scale.
-*   **Enterprise Leadership:** **Senior Vice President** at Kinara Capital, delivering platform modernization and operational agility in regulated FinTech.
 *   **Standards & Governance:** **ICANN Fellow**, **Mozilla Representative**, and **Software Freedom Law Centre** board member - shaping internet standards and digital rights.
 *   **Community Impact:** **Google Summer of Code** mentor across multiple cycles, designed government FOSS training programs.
+*   **Enterprise Experience:** Previously led digital transformation initiatives in regulated FinTech and quick commerce environments.
 
 This foundation in open standards and large-scale public infrastructure informs how I architect enterprise systems today.
 
