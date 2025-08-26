@@ -21,11 +21,9 @@ This foundation in public-interest technology provides what I call **"adversaria
 
 My engineering philosophy is rooted in the FOSS movement and has been a consistent thread throughout my career.
 
-*   **JavaScript Standards:** Merged ES2024/2025 features in **Mozilla Rhino** - Promise.withResolvers, BigInt improvements, ISO date parsing.
-*   **Language Computing:** Built the infrastructure that brought computing to millions of Indian language users through **Swathanthra Malayalam Computing** and **Indic Project**.
-*   **Internet Governance:** **ICANN Fellow** & Neo-Brahmi Generation Panel member, shaping multilingual internet standards.
-*   **Open Source Leadership:** **Google Summer of Code** mentor (5 cycles), **Mozilla Representative**, designed government FOSS curriculum.
-*   **Governance:** Advisory Board at **Software Freedom Law Centre, India** for digital rights and policy.
+*   **Language Computing:** Built the infrastructure that brought computing to millions of Indian language users - from founding initiatives to national-scale deployment.
+*   **Standards & Governance:** **ICANN Fellow**, **Mozilla Representative**, and **Software Freedom Law Centre** board member - shaping internet standards and digital rights.
+*   **Community Leadership:** **Google Summer of Code** mentor across multiple cycles, designed government FOSS training programs.
 
 This foundation in open standards and community-driven development informs how I approach enterprise architecture today.
 
