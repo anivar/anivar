@@ -21,12 +21,12 @@ This foundation in public-interest technology provides what I call **"adversaria
 
 My career bridges FOSS leadership with enterprise transformation. This unique foundation drives my approach to building resilient systems.
 
-*   **National Infrastructure:** Led **Government of India (MeiTY)** funded R&D programs for Indian language computing, serving millions of users at national scale.
+*   **National Infrastructure:** Led **Government of India (MeiTY)** funded R&D programs for Indian language computing, serving millions of users at national scale. 🔗 **[Letter](endorsements/ICFOSS-Government-of-Kerala-Endorsement.pdf)**
 *   **Standards & Governance:** **ICANN Fellow**, **Mozilla Representative**, and **Software Freedom Law Centre** advisory board member - shaping internet standards and digital rights.
 *   **Recognition:** **Deccan Herald Changemaker 2024** for pioneering multilingual computing and digital inclusion in India.
 *   **Global Speaking:** Regular speaker at **MozFest**, **RightsCon**, **FOSSASIA**, and international technology forums.
 *   **Community Impact:** **Google Summer of Code** mentor across multiple cycles, designed government FOSS training programs.
-*   **Enterprise Experience:** Previously **SVP Engineering** in regulated FinTech, leading platform modernization and digital transformation initiatives.
+*   **Enterprise Experience:** Previously **SVP Engineering** in regulated FinTech, leading platform modernization and digital transformation initiatives. 🔗 **[Letter](endorsements/Kinara-Capital-CEO-Endorsement.pdf)**
 
 This foundation in open standards and large-scale public infrastructure informs how I architect enterprise systems today.
 
