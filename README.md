@@ -17,15 +17,16 @@ This foundation in public-interest technology provides what I call **"adversaria
 *   **🌐 Standards & Protocols:** Active contributor to JavaScript standards (ES2024+) and AI protocol interoperability (Mozilla AI, Linux Foundation).
 *   **👥 Engineering Leadership:** Fostering engineering cultures that deliver at velocity without sacrificing governance. Mentored 100+ developers through Google Summer of Code.
 
-### A Career in Open Source
+### From Public Interest to Enterprise Scale
 
-My engineering philosophy is rooted in the FOSS movement and has been a consistent thread throughout my career.
+My career bridges FOSS leadership with enterprise transformation. This unique foundation drives my approach to building resilient systems.
 
-*   **Language Computing:** Built the infrastructure that brought computing to millions of Indian language users - from founding initiatives to national-scale deployment.
+*   **National Infrastructure:** Led **Government of India (MeiTY)** funded R&D programs for Indian language computing, serving millions of users at national scale.
+*   **Enterprise Leadership:** **Senior Vice President** at Kinara Capital, delivering platform modernization and operational agility in regulated FinTech.
 *   **Standards & Governance:** **ICANN Fellow**, **Mozilla Representative**, and **Software Freedom Law Centre** board member - shaping internet standards and digital rights.
-*   **Community Leadership:** **Google Summer of Code** mentor across multiple cycles, designed government FOSS training programs.
+*   **Community Impact:** **Google Summer of Code** mentor across multiple cycles, designed government FOSS training programs.
 
-This foundation in open standards and community-driven development informs how I approach enterprise architecture today.
+This foundation in open standards and large-scale public infrastructure informs how I architect enterprise systems today.
 
 ### Connect
 
