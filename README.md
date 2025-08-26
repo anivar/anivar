@@ -27,7 +27,7 @@ My engineering philosophy is rooted in the FOSS movement and has been a consiste
 *   **Open Source Leadership:** **Google Summer of Code** mentor (5 cycles), **Mozilla Representative**, designed government FOSS curriculum.
 *   **Governance:** Advisory Board at **Software Freedom Law Centre, India** for digital rights and policy.
 
-This isn't idealism—it's pragmatism. The most successful enterprise systems I've built share DNA with the open source projects I've contributed to.
+This foundation in open standards and community-driven development informs how I approach enterprise architecture today.
 
 ### Connect
 
