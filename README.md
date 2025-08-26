@@ -22,7 +22,7 @@ This foundation in public-interest technology provides what I call **"adversaria
 My career bridges FOSS leadership with enterprise transformation. This unique foundation drives my approach to building resilient systems.
 
 *   **National Infrastructure:** Led **Government of India (MeiTY)** funded R&D programs for Indian language computing, serving millions of users at national scale.
-*   **Standards & Governance:** **ICANN Fellow**, **Mozilla Representative**, and **Software Freedom Law Centre** board member - shaping internet standards and digital rights.
+*   **Standards & Governance:** **ICANN Fellow**, **Mozilla Representative**, and **Software Freedom Law Centre** advisory board member - shaping internet standards and digital rights.
 *   **Community Impact:** **Google Summer of Code** mentor across multiple cycles, designed government FOSS training programs.
 *   **Enterprise Experience:** Previously **SVP Engineering** in regulated FinTech, leading platform modernization and digital transformation initiatives.
 
