@@ -34,4 +34,4 @@ This foundation in open standards and large-scale public infrastructure informs 
 
 I believe in building technology that creates both commercial value and public good. Currently focused on the intersection of enterprise scale and open standards.
 
-🔗 **[LinkedIn](https://linkedin.com/in/anivar)** | 𝕏 **[@anivar](https://x.com/anivar)** | 💬 Open to advisory opportunities & strategic collaborations | ❤️ **[Sponsor my work](SPONSORS.md)**
+🔗 **[LinkedIn](https://linkedin.com/in/anivar)** | 𝕏 **[@anivar](https://x.com/anivar)** | 💬 Open to advisory opportunities & strategic collaborations
