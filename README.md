@@ -40,5 +40,4 @@ I believe in building technology that creates both commercial value and public g
 
 ## 📊 Activity Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anivar&layout=compact&theme=dark)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anivar&theme=darkhub&no-frame=true&row=1)
