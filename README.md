@@ -10,11 +10,6 @@ I lead engineering at **Foodhub**, orchestrating the technology that powers rest
 
 This foundation in public-interest technology provides what I call **"adversarial insight"**—the ability to build systems that are not just functional, but fundamentally resilient, open, and trustworthy.
 
-## 📊 Activity Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anivar&show_icons=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anivar)
-
 ### Core Focus
 
 *   **🏗️ Global Commerce Infrastructure:** Evolving ordering, payments, and loyalty systems for multi-region scale and high reliability.
@@ -40,3 +35,11 @@ This foundation in open standards and large-scale public infrastructure informs 
 I believe in building technology that creates both commercial value and public good. Currently focused on the intersection of enterprise scale and open standards.
 
 🔗 **[LinkedIn](https://linkedin.com/in/anivar)** | 𝕏 **[@anivar](https://x.com/anivar)** | 💬 Open to advisory opportunities & strategic collaborations
+
+---
+
+## 📊 Activity Overview
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=anivar)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anivar&layout=compact&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anivar&theme=darkhub&no-frame=true&row=1)
