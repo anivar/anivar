@@ -14,7 +14,7 @@ This foundation in public-interest technology provides what I call **"adversaria
 
 *   **🏗️ Global Commerce Infrastructure:** Evolving ordering, payments, and loyalty systems for multi-region scale and high reliability.
 *   **🔄 Enterprise Transformation:** Leading the shift from monolithic architectures to event-driven, API-first platforms. Previously led this transformation in regulated FinTech and quick commerce.
-*   **🌐 Standards & Protocols:** Active contributor to JavaScript standards (ES2024+) and AI protocol interoperability (Mozilla AI, Linux Foundation).
+*   **🌐 Standards & Protocols:** Active contributor to Unicode/ IDNA / ICANN LGR , protocol interoperability
 *   **👥 Engineering Leadership:** Fostering engineering cultures that deliver at velocity without sacrificing governance. Mentored developers through Google Summer of Code and Open source Projects
 
 ### From Public Interest to Enterprise Scale
