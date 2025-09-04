@@ -1,50 +1,58 @@
-# 👋 Hi, I'm Anivar A. Aravind  
+# 👋 Hi, I'm Anivar A. Aravind
 
-**Head of Engineering @ Foodhub | Open Source Architect | Standards Contributor**  
+**Head of Engineering @ Foodhub | Open Source Architect | Standards Contributor**
 
-Building resilient infrastructure at global scale, informed by decades in the trenches of FOSS and digital rights.  
-
----
-
-## 🚀 About Me  
-
-I lead engineering at **Foodhub**, orchestrating the technology that powers restaurant commerce across five countries.  
-My approach is shaped by an uncommon journey: from coordinating the **Free Software Foundation of India** to architecting enterprise **FinTech** transformations.  
-
-This foundation in public-interest technology provides what I call **"inclusive tech insight"**—the ability to build systems that are not just functional, but fundamentally resilient, open, and trustworthy.  
+I build resilient, global-scale infrastructure — shaped by decades of work in Free and Open Source Software (FOSS), digital rights, and enterprise transformation.  
 
 ---
 
-## 🔧 Core Focus  
+## 🔧 What I Do
 
-- 🏗️ **Global Commerce Infrastructure**: Evolving ordering, payments, and loyalty systems for multi-region scale and high reliability.  
-- 🔄 **Enterprise Transformation**: Leading the shift from monolithic architectures to event-driven, API-first platforms. Previously led this transformation in regulated FinTech and quick commerce.  
-- 🌐 **Standards & Protocols**: Active contributor to Unicode / IDNA / ICANN LGR, protocol interoperability.  
-- 👥 **Engineering Leadership**: Fostering cultures that deliver at velocity without sacrificing governance. Mentored developers through **Google Summer of Code** and open-source projects.  
+- 🏗️ **Global Commerce Infrastructure (B2B2C)**  
+  Engineering ordering, payments, and loyalty platforms across 5 countries, enabling restaurant-to-consumer commerce at scale.  
+
+- 🔄 **Enterprise Transformation**  
+  Leading shifts from monolithic systems to event-driven, API-first platforms in FinTech, quick commerce, and food-tech (B2B2C).  
+
+- 🌐 **Standards & Protocols**  
+  Contributor to Unicode / IDNA / ICANN LGR and advocate for protocol interoperability.  
+
+- 👥 **Engineering Leadership**  
+  Building teams that deliver with speed and governance. Mentored developers through **Google Summer of Code** and multiple open-source initiatives.  
 
 ---
 
-## 🌍 From Public Interest to Enterprise Scale  
+## 🌍 Journey So Far
 
-My career bridges **FOSS leadership** with **enterprise transformation**. This unique foundation drives my approach to building resilient systems.  
+My career bridges **public-interest technology** and **enterprise systems**. This foundation drives an approach I call **inclusive tech insight** — designing systems that are resilient, open, and trustworthy.  
 
-- 🏛️ **National Infrastructure**: Led **Government of India (MeitY)** funded R&D programs for Indian language computing, serving millions of users at national scale.  
+- 🏛️ **National Infrastructure**  
+  Led **Government of India (MeitY)** funded R&D for Indian language computing, impacting millions of users.  
   [📄](endorsements/ICFOSS-Government-of-Kerala-Endorsement.pdf)  
-- 📜 **Standards & Governance**: **ICANN Fellow**, **Mozilla Representative**, and **Software Freedom Law Centre** advisory board member – shaping internet standards and digital rights.  
-- 🏅 **Recognition**: [Deccan Herald Changemaker 2024](https://www.deccanherald.com/dh-changemakers/towards-a-more-equal-digital-india-2828823) for pioneering multilingual computing and digital inclusion in India.  
-- 🎤 **Global Speaking**: Speaker at **MozFest**, **RightsCon**, **FOSSASIA**, and international technology forums.  
-- 🌱 **Community Impact**: **Google Summer of Code** mentor across multiple cycles, designed government FOSS training programs.  
-- 💼 **Enterprise Experience**: Former **SVP Engineering** in regulated FinTech, leading platform modernization and digital transformation.  
 
-This foundation in **open standards** and **large-scale public infrastructure** informs how I architect enterprise systems today.  
+- 📜 **Standards & Governance**  
+  **ICANN Fellow**, **Mozilla Representative**, and **Software Freedom Law Centre** advisory board member — shaping internet standards and digital rights.  
+
+- 🏅 **Recognition**  
+  [Deccan Herald Changemaker 2024](https://www.deccanherald.com/dh-changemakers/towards-a-more-equal-digital-india-2828823) for pioneering multilingual computing and digital inclusion in India.  
+
+- 🎤 **Speaking**  
+  Invited speaker at **MozFest**, **RightsCon**, **FOSSASIA**, and international forums on open technology and governance.  
+
+- 🌱 **Community Impact**  
+  Mentored in **Google Summer of Code** and designed national FOSS training programs.  
+
+- 💼 **Enterprise Experience**  
+  Former **SVP Engineering** in regulated FinTech, leading modernization and digital transformation.  
 
 ---
 
-## 🤝 Connect  
+## 🤝 Let’s Connect
 
-I believe in building technology that creates both **commercial value** and **public good**.  
-Currently focused on the **intersection of enterprise scale and open standards**.  
+I believe in technology that creates both **commercial value** and **public good**.  
+Currently focused on the **intersection of enterprise scale, B2B2C commerce, and open standards**.  
 
-- 🔗 [LinkedIn](https://linkedin.com/in/anivar)  
-- 𝕏 [@anivar](https://x.com/anivar)  
-- 💬 Open to advisory opportunities & strategic collaborations  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anivar-blue?logo=linkedin)](https://linkedin.com/in/anivar)  
+[![X (Twitter)](https://img.shields.io/badge/X-@anivar-black?logo=x)](https://x.com/anivar)  
+
+💬 Open to advisory opportunities & strategic collaborations  
