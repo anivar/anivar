@@ -23,7 +23,7 @@ My career bridges **public-interest technology** and **enterprise systems**. Thi
 - 📜 **Standards & Governance:**  **ICANN Fellow**, **Mozilla Representative**, and **Software Freedom Law Centre** advisory board member — shaping internet standards and digital rights.  
 - 🏅 **Recognition** [Deccan Herald Changemaker 2024](https://www.deccanherald.com/dh-changemakers/towards-a-more-equal-digital-india-2828823) for pioneering multilingual computing and digital inclusion in India.  
 - 🎤 **Speaking:** Invited speaker at **MozFest**, **RightsCon**, **FOSSASIA**, and international forums on open technology and governance.  
-- 🌱 **Community Impact:** Mentored in Language Technology FOSS Projects, **Google Summer of Code** and designed national FOSS training programs.  
+- 🌱 **Community Impact:** Mentored in Language Technology FOSS Projects, **Google Summer of Code** and designed State Wide FOSS training programs in India.  
 - 💼 **Enterprise Experience:** Former **SVP Engineering** in regulated FinTech, leading modernization and digital transformation.  
 
 ---
