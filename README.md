@@ -30,18 +30,18 @@ My career bridges **public-interest technology** and **enterprise systems**. Thi
 
 ## 🚀 Open Source
 
-[![Contributions](https://img.shields.io/badge/2025-620%20Contributions-green?style=flat-square)](https://github.com/anivar) [![PRs](https://img.shields.io/badge/PRs%20Merged-81-blue?style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3Aanivar+is%3Amerged) [![Sponsors](https://img.shields.io/badge/Sponsoring-12%20Devs-EA4AAA?style=flat-square&logo=github-sponsors)](SPONSORSHIP-PORTFOLIO.md)
+[![Contributions](https://img.shields.io/badge/2025-620%20Contributions-green?style=flat-square)](https://github.com/anivar) [![PRs](https://img.shields.io/badge/PRs%20Merged-81-blue?style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3Aanivar+is%3Amerged) [![Sponsors](https://img.shields.io/badge/Sponsoring-12%20Devs-EA4AAA?style=flat-square&logo=github-sponsors)](opensource/SPONSORSHIP-PORTFOLIO.md)
 
 **Shipping features to codebases millions use:**
 
 | Project | Contributions |
 |---------|--------------|
-| [Mozilla Rhino](CONTRIB-MOZILLA-RHINO.md) | ES2024/2025 spec features (Promise.try, Set methods, etc.) |
-| [AWS Amplify](CONTRIB-AWS-AMPLIFY.md) | Auth token fix, DataStore operators |
-| [Open Policy Agent](CONTRIB-OPA.md) | Metrics, WASM benchmarking |
-| [Own Projects](CONTRIB-OWN-PROJECTS.md) | netsignal, react-native-omni-select, AI bridges |
+| [Mozilla Rhino](opensource/CONTRIB-MOZILLA-RHINO.md) | ES2024/2025 spec features (Promise.try, Set methods, etc.) |
+| [AWS Amplify](opensource/CONTRIB-AWS-AMPLIFY.md) | Auth token fix, DataStore operators |
+| [Open Policy Agent](opensource/CONTRIB-OPA.md) | Metrics, WASM benchmarking |
+| [Own Projects](opensource/CONTRIB-OWN-PROJECTS.md) | netsignal, react-native-omni-select, AI bridges |
 
-→ **Full details**: [OPEN-SOURCE-CONTRIBUTIONS.md](OPEN-SOURCE-CONTRIBUTIONS.md)
+→ **Full details**: [opensource/](opensource/)
 
 ---
 

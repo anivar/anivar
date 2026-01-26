@@ -24,7 +24,7 @@
 
 Implementing ECMAScript specification features in Mozilla's JavaScript engine used in Java applications worldwide.
 
-→ **Details**: [CONTRIB-MOZILLA-RHINO.md](CONTRIB-MOZILLA-RHINO.md)
+→ **Details**: [CONTRIB-MOZILLA-RHINO.md](./CONTRIB-MOZILLA-RHINO.md)
 
 ### Merged Contributions
 
@@ -48,7 +48,7 @@ Implementing ECMAScript specification features in Mozilla's JavaScript engine us
 
 **Role**: Core Contributor
 
-→ **Details**: [CONTRIB-AWS-AMPLIFY.md](CONTRIB-AWS-AMPLIFY.md)
+→ **Details**: [CONTRIB-AWS-AMPLIFY.md](./CONTRIB-AWS-AMPLIFY.md)
 
 ### Merged Contributions
 
@@ -65,7 +65,7 @@ Implementing ECMAScript specification features in Mozilla's JavaScript engine us
 
 **Role**: Infrastructure & Metrics Contributor
 
-→ **Details**: [CONTRIB-OPA.md](CONTRIB-OPA.md)
+→ **Details**: [CONTRIB-OPA.md](./CONTRIB-OPA.md)
 
 ### Merged Contributions
 
@@ -106,7 +106,7 @@ Implementing ECMAScript specification features in Mozilla's JavaScript engine us
 
 ## 📱 Original Projects
 
-→ **Details**: [CONTRIB-OWN-PROJECTS.md](CONTRIB-OWN-PROJECTS.md)
+→ **Details**: [CONTRIB-OWN-PROJECTS.md](./CONTRIB-OWN-PROJECTS.md)
 
 ### Published Packages
 
