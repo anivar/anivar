@@ -28,7 +28,7 @@ My career bridges **public-interest technology** and **enterprise systems**. Thi
 
 ---
 
-https://komarev.com/ghpvc/?username=regalstreak&color=blue
+![](https://komarev.com/ghpvc/?username=anivar&color=blue)
 
 ## 🤝 Let's Connect
 
