@@ -28,6 +28,8 @@ My career bridges **public-interest technology** and **enterprise systems**. Thi
 
 ---
 
+https://komarev.com/ghpvc/?username=regalstreak&color=blue
+
 ## 🤝 Let's Connect
 
 I believe in technology that creates both **commercial value** and **public good**. Currently focused on the **intersection of enterprise scale, B2B2C commerce, and open standards**.
