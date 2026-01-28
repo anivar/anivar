@@ -28,10 +28,10 @@ My career bridges **public-interest technology** and **enterprise systems**. Thi
 
 ---
 
-![](https://komarev.com/ghpvc/?username=anivar&color=blue)  [![Contributions](https://img.shields.io/badge/2025-620%20Contributions-green?style=flat-square)](https://github.com/anivar)  [![PRs](https://img.shields.io/badge/PRs%20Merged-81-blue?style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3Aanivar+is%3Amerged)  [![Sponsors](https://img.shields.io/badge/Sponsoring-12%20Devs-EA4AAA?style=flat-square&logo=github-sponsors)
+![](https://komarev.com/ghpvc/?username=anivar&color=blue)  [![Contributions](https://img.shields.io/badge/2025-620%20Contributions-green?style=flat-square)](https://github.com/anivar)  [![PRs](https://img.shields.io/badge/PRs%20Merged-81-blue?style=flat-square)](https://github.com/pulls?q=is%3Apr+author%3Aanivar+is%3Amerged)  [![Sponsors](https://img.shields.io/badge/Sponsoring-12%20Devs-EA4AAA?style=flat-square&logo=github-sponsors)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anivar-blue?logo=linkedin)](https://linkedin.com/in/anivar)  [![X (Twitter)](https://img.shields.io/badge/X-@anivar-black?logo=x)](https://x.com/anivar) 
 
 ## 🤝 Let's Connect
 
 I believe in technology that creates both **commercial value** and **public good**. Currently focused on the **intersection of enterprise scale, B2B2C commerce, and open standards**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anivar-blue?logo=linkedin)](https://linkedin.com/in/anivar)  [![X (Twitter)](https://img.shields.io/badge/X-@anivar-black?logo=x)](https://x.com/anivar)  💬 Open to advisory opportunities & strategic collaborations
+ 💬 Open to advisory opportunities & strategic collaborations
