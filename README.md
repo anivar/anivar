@@ -28,7 +28,7 @@ My career bridges **public-interest technology** and **enterprise systems**. Thi
 
 ---
 
-![](https://komarev.com/ghpvc/?username=anivar&color=blue)  [![Contributions](https://img.shields.io/badge/2025-620%20Contributions-green?style=flat-square)](https://github.com/anivar)  [![Sponsors](https://img.shields.io/badge/Sponsoring-12%20Devs-EA4AAA?style=flat-square&logo=github-sponsors)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anivar-blue?logo=linkedin)](https://linkedin.com/in/anivar)  [![X (Twitter)](https://img.shields.io/badge/X-@anivar-black?logo=x)](https://x.com/anivar) 
+![](https://komarev.com/ghpvc/?username=anivar&color=blue)  [![Contributions](https://img.shields.io/badge/2026-620%20Contributions-green?style=flat-square)](https://github.com/anivar)  [![Sponsors](https://img.shields.io/badge/Sponsoring-7%20Devs-EA4AAA?style=flat-square&logo=github-sponsors)[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anivar-blue?logo=linkedin)](https://linkedin.com/in/anivar)  [![X (Twitter)](https://img.shields.io/badge/X-@anivar-black?logo=x)](https://x.com/anivar) 
 
 ## 🤝 Let's Connect
 
