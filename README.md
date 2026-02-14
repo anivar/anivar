@@ -28,11 +28,11 @@ My career bridges **public-interest technology** and **enterprise systems**. Thi
 
 ---
 
-![](https://komarev.com/ghpvc/?username=anivar&color=blue)  [![2025](https://img.shields.io/badge/2025-593%20Contributions-green?style=flat-square)](https://github.com/anivar)  [![2026](https://img.shields.io/badge/2026-121%20Contributions-green?style=flat-square)](https://github.com/anivar)  [![Sponsors](https://img.shields.io/badge/Sponsoring-7%20Devs-EA4AAA?style=flat-square&logo=github-sponsors)](https://github.com/anivar?tab=sponsoring)
+[![2025](https://img.shields.io/badge/2025-593%20Contributions-green?style=flat-square)](https://github.com/anivar) [![2026](https://img.shields.io/badge/2026-121%20Contributions-green?style=flat-square)](https://github.com/anivar) [![Sponsors](https://img.shields.io/badge/Sponsoring-7%20Devs-EA4AAA?style=flat-square&logo=github-sponsors)](https://github.com/anivar?tab=sponsoring) ![](https://komarev.com/ghpvc/?username=anivar&color=blue)
 
 Contributing to [Firefox](https://github.com/mozilla-b2g/moztt) · [Hermes](https://github.com/facebook/hermes) · [Mozilla Rhino](https://github.com/mozilla/rhino) · [AWS Amplify](https://github.com/aws-amplify/amplify-js) · [Open Policy Agent](https://github.com/open-policy-agent/opa) · [MLCommons](https://github.com/mlcommons/inference) · [Mozilla AI](https://github.com/mozilla-ai/any-llm) · [whois](https://github.com/rfc1036/whois)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anivar-blue?logo=linkedin)](https://linkedin.com/in/anivar)  [![X (Twitter)](https://img.shields.io/badge/X-@anivar-black?logo=x)](https://x.com/anivar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anivar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anivar) [![X](https://img.shields.io/badge/X-@anivar-000?style=flat-square&logo=x&logoColor=white)](https://x.com/anivar)
 
 ## 🤝 Let's Connect
 
