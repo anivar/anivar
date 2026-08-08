@@ -32,7 +32,7 @@ My career bridges **public-interest technology** and **enterprise systems**. Thi
 
 ---
 
-[![2025](https://img.shields.io/badge/2025-564%20Contributions-green?style=flat-square)](https://github.com/anivar) [![2026](https://img.shields.io/badge/2026-2129%20Contributions-green?style=flat-square)](https://github.com/anivar) ![](https://komarev.com/ghpvc/?username=anivar&color=blue)
+[![2025](https://img.shields.io/badge/2025-564%20Contributions-green?style=flat-square)](https://github.com/anivar) [![2026](https://img.shields.io/badge/2026-2129%20Contributions-green?style=flat-square)](https://github.com/anivar) [![views](https://anivar.net/pv?k=profile)](https://anivar.net/)
 
 Currently contributing to [Hermes](https://github.com/facebook/hermes) · [llamafile](https://github.com/mozilla-ai/llamafile) · [Mozilla Rhino](https://github.com/mozilla/rhino) · [AWS Amplify](https://github.com/aws-amplify/amplify-js) · [Open Policy Agent](https://github.com/open-policy-agent/opa) · [Mozilla AI](https://github.com/mozilla-ai/any-llm) · [whois](https://github.com/rfc1036/whois)
 
