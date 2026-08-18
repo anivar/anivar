@@ -10,8 +10,8 @@ I build resilient, global-scale infrastructure - shaped by decades of work in Fr
 
 ## 🔧 What I Do
 
-- 🏗️ **Global Commerce Infrastructure (B2B2C):** Engineering identity, loyalty, payments, and ledger as the primitives of commerce at scale.
-- 🔄 **Enterprise Transformation:** Leading shifts from monolithic systems to event-driven, agentic platforms — not API-first alone — in FinTech, quick commerce, and food-tech (B2B2C).
+- 🏗️ **Global Commerce Infrastructure (B2B2C):** Identity, loyalty, payments, and ledger as a deep stack — principal to settlement.
+- 🔄 **Enterprise Transformation:** Leading shifts from monolithic systems to an agentic deep stack in FinTech, quick commerce, and food-tech (B2B2C).
 - 🌐 **Standards & Protocols:** Contributor to Unicode / IDNA / ICANN LGR and advocate for protocol interoperability. Author of two individual Internet-Drafts at the IETF - [decision-subject](https://datatracker.ietf.org/doc/draft-aravind-oauth-decision-subject/) and [operator-of-record](https://datatracker.ietf.org/doc/draft-aravind-oauth-operator-of-record/) - and co-author on [DANE-DID](https://datatracker.ietf.org/doc/draft-ranjbar-dane-did/).
 - 🔐 **Agentic Authorization:** Building [**decern**](https://github.com/anivar/decern) - a deterministic authorization kernel where people, AI agents and workloads are one principal type, with safety invariants machine-checked by an SMT solver and every decision written to a tamper-evident ledger anyone can verify offline. Apache-2.0, pure Rust. [decern.anivar.net](https://decern.anivar.net/)
 - 👥 **Engineering Leadership:** Building teams that deliver with speed and governance. Mentored developers through **Google Summer of Code** and multiple open-source initiatives.
